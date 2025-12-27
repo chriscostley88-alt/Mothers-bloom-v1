@@ -1,0 +1,7 @@
+{
+  "name": "Mother's Bloom",
+  "description": "An interactive AI companion and community app for pregnant women and new mothers, providing expert knowledge on pregnancy and baby care, along with a supportive space for mothers to connect.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
